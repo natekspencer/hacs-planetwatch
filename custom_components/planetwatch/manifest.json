@@ -1,0 +1,18 @@
+{
+  "domain": "planetwatch",
+  "name": "PlanetWatch",
+  "version": "2022.4.0",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/planetwatch",
+  "dependencies": [
+    "http",
+    "awair"
+  ],
+  "requirements": [
+    "python_awair"
+  ],
+  "codeowners": [
+    "@natekspencer"
+  ],
+  "iot_class": "cloud_push"
+}
