@@ -1,7 +1,7 @@
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/natekspencer)
-![](https://img.shields.io/github/v/release/natekspencer/hacs-planetwatch?style=flat-square)
+![](https://img.shields.io/github/v/release/natekspencer/hacs-planetwatch?style=for-the-badge)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/natekspencer)
 
-![](https://www.planetwatch.us/wp-content/themes/Planetwatchre/images/PlanetWatch_logo_new-2.png)
+![](logo.png)
 
 # PlanetWatch for Home Assistant
 
